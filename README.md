@@ -1,6 +1,6 @@
 # ☕ Coffee Invitation
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://hevdenn.github.io/kahve_daveti-/)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://hevdenn.github.io/Kahve/)
 [![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -13,7 +13,7 @@ A cute cat-themed coffee invitation page. Simple, elegant, and interactive web e
 
 ## 🌟 Demo
 
-**👉 [Live Demo](https://Hevdenn.github.io/kahve_daveti-/)**
+**👉 [Live Demo](https://hevdenn.github.io/Kahve/)**
 
 ---
 
